@@ -1,0 +1,16 @@
+Bamigbade_Oluwaseyi_HW5_Results
+
+Question 1 Results:
+ans_1a = 1.570795952287868
+ans_1b = 0.999999523162842
+ans_1c = 1.079481124877930
+ans_1d = 0.117876529693604
+
+Question 2 Results:
+ans_2a = 0.737996433773763
+ans_2b = newton
+
+Question 3 Results:
+ans_3a = 1.000000000000000
+ans_3b = -1.391745200270735
+ans_3c = 0.000000000000000
